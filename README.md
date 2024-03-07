@@ -1,1 +1,2 @@
-HTML + SCSS
+Landong page
+Stack: HTML + SCSS
